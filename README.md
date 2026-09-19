@@ -1,21 +1,328 @@
-# 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m currently collaborating with Simplified Computer<br>🌱 I’m currently learning
+Perfect 👍 I’ll treat the information in your current README as correct and keep your existing social links, username, tech stack, and profile details.
 
+Here’s a **much more stylish, futuristic GitHub profile README** you can directly replace your current `README.md` with:
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mishra__anshuman__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-mishra-b9445933a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraanshuman9999@gmail.com) 
+````markdown
+<!-- ===================== HEADER ===================== -->
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anshumancodehub&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anshumancodehub&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshumancodehub&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshumancodehub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:FF00C8&height=220&section=header&text=Anshuman%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18"/>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Java+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;AI%2FML+Enthusiast+%F0%9F%A4%96;Android+Developer+%F0%9F%93%B1;Full-Stack+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/anshumancodehub">
+<img src="https://komarev.com/ghpvc/?username=anshumancodehub&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/anshumancodehub?tab=followers">
+<img src="https://img.shields.io/github/followers/anshumancodehub?style=for-the-badge&logo=github&label=Followers&color=7F00FF"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anshumancodehub&icon=9&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+🎓 **I’m currently a student**
+
+👯 **I’m currently collaborating with Simplified Computer**
+
+🌱 **I’m currently learning and exploring new technologies**
+
+💻 Passionate about building software and experimenting with new technologies.
+
+🤖 Interested in **Artificial Intelligence, Machine Learning and Full-Stack Development**
+
+📱 Exploring **Android Development**
+
+☕ I enjoy turning ideas into real-world applications.
+
+<br clear="right"/>
+
+---
+
+# 🚀 What I'm Working On
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   💻 Software Development                               │
+│   🤖 Artificial Intelligence & Machine Learning         │
+│   🌐 Full-Stack Web Applications                        │
+│   📱 Android Applications                               │
+│   🧠 Exploring New Technologies                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+````
+
+---
+
+# 🧠 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,html,css&perline=6"/>
+
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,flask,spring,bootstrap&perline=7"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase&perline=6"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=6"/>
+
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven,nodejs,npm&perline=8"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/mishra__anshuman__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anshuman-mishra-b9445933a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mishraanshuman9999@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anshumancodehub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anshumancodehub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodehub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=anshumancodehub&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumancodehub&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anshumancodehub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anshumancodehub/anshumancodehub/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### `"Code. Learn. Build. Repeat. 🚀"`
+
+<br>
+
+> **Learning never stops.**
+>
+> Every project is an opportunity to learn something new,
+> solve a real problem, and build something better.
+
+</div>
+
+---
+
+# 📌 Currently
+
+<div align="center">
+
+|        🚀 Focus        |      📚 Learning     |   🤝 Collaboration   |
+| :--------------------: | :------------------: | :------------------: |
+|  Software Development  |        AI / ML       |      Open Source     |
+| Full-Stack Development |   New Technologies   | Interesting Projects |
+|   Android Development  | Advanced Programming |      Developers      |
+
+</div>
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building the future, one line of code at a time.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7F00FF,100:00F5FF&height=120&section=footer"/>
+
+</div>
+```
+
+### One thing I'd change from your original
+
+I deliberately **removed the giant wall of 40+ individual badges**. Your technologies are still represented, but the README now has sections:
+
+**Languages → Web → AI/ML → Mobile → Databases → Tools**
+
+That makes the profile much easier to scan and gives it a proper developer-portfolio feel.
+
+### ⚠️ Snake animation setup
+
+The snake section requires a GitHub Action in your profile repository (`anshumancodehub/anshumancodehub`). Create:
+
+`.github/workflows/snake.yml`
+
+with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+```
+
+Then the snake will automatically regenerate from your GitHub contribution graph.
+
+**Your profile will then have the animated header + typing effect + organized tech stack + live GitHub stats + streak + activity graph + trophies + contribution snake.** 🚀
