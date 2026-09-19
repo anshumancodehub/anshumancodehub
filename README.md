@@ -1,16 +1,84 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Yes — let's make it **much closer to the generated image**: neon cyberpunk panels, terminal-style navigation, animated typing, glowing badges, organized cards, animated stats, streak, trophies, contribution snake, and a neon footer.
+
+**Important:** GitHub README files cannot execute custom CSS or JavaScript, so the animations below use GitHub-compatible animated SVG/image services. This is about as close as we can get to that design while keeping it functional on GitHub.
+
+Copy everything below into `README.md`:
+
+````markdown
+<!-- ========================================================= -->
+<!--                    ANSHUMAN MISHRA                        -->
+<!--              CYBERPUNK GITHUB PROFILE                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:7F00FF,75:FF00C8,100:00F5FF&height=230&section=header&text=Anshuman%20Mishra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=19"/>
+<!-- ======================= HERO ============================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:00F5FF,50:7F00FF,75:FF00C8,100:020024&height=250&section=header&text=Anshuman%20Mishra&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20%7C%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=19"/>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Java+Developer+%F0%9F%92%BB;%3E+Python+Developer+%F0%9F%90%8D;%3E+AI%2FML+Enthusiast+%F0%9F%A4%96;%3E+Android+Developer+%F0%9F%93%B1;%3E+Full-Stack+Developer+%F0%9F%8C%90;%3E+Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+<!-- ================= TERMINAL NAV ================= -->
+
+<table>
+<tr>
+
+<td align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/⌂%20About-020024?style=for-the-badge&labelColor=020024&color=00F5FF"/>
 </a>
+
+</td>
+
+<td align="center">
+
+<a href="#tech-stack">
+<img src="https://img.shields.io/badge/◈%20Tech%20Stack-020024?style=for-the-badge&labelColor=020024&color=7F00FF"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="#what-im-working-on">
+<img src="https://img.shields.io/badge/▣%20Projects-020024?style=for-the-badge&labelColor=020024&color=FF00C8"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="#github-statistics">
+<img src="https://img.shields.io/badge/▥%20Stats-020024?style=for-the-badge&labelColor=020024&color=00F5FF"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="#connect-with-me">
+<img src="https://img.shields.io/badge/✉%20Contact-020024?style=for-the-badge&labelColor=020024&color=7F00FF"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= TERMINAL INTRO ================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Anshuman+Mishra;%3E+Full-Stack+Developer+%F0%9F%8C%90;%3E+AI%2FML+Enthusiast+%F0%9F%A4%96;%3E+Java+%7C+Python+%7C+Kotlin;%3E+Building+real-world+solutions+%F0%9F%9A%80" alt="Animated typing"/>
+
+<br><br>
+
+<!-- ================= STATUS ================= -->
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=020024"/>
+<img src="https://img.shields.io/badge/LEARNING-AI%20%2F%20ML-7F00FF?style=for-the-badge&labelColor=020024"/>
+<img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-FF00C8?style=for-the-badge&labelColor=020024"/>
 
 <br><br>
 
@@ -20,32 +88,42 @@
 
 <br><br>
 
-### ⚡ Turning ideas into real-world solutions
+### `⚡ Turning ideas into real-world solutions ⚡`
+
+<br>
 
 `CODE` &nbsp; `LEARN` &nbsp; `BUILD` &nbsp; `CREATE` &nbsp; `REPEAT`
 
 </div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
 
-# 👨‍💻 About Me
+<a name="about-me"></a>
+
+# 🚀 About Me
 
 <table>
 <tr>
 
 <td width="60%">
 
-### 🌱 Who Am I?
+### 👋 Hi, I'm Anshuman
 
-🔭 I’m currently a **student**
+```text
+> whoami
 
-👯 I’m currently collaborating with **Simplified Computer**
+Anshuman Mishra
+Student | Developer | AI/ML Enthusiast
+````
 
-🌱 I’m currently learning and exploring **new technologies**
+🔭 **I’m currently a student**
+
+👯 **I’m currently collaborating with Simplified Computer**
+
+🌱 **I’m currently learning and exploring new technologies**
 
 💻 Passionate about **software development**
 
@@ -55,7 +133,7 @@
 
 🌐 Interested in **Full-Stack Development**
 
-🚀 I love building **real-world applications**
+🚀 Building **real-world applications**
 
 </td>
 
@@ -65,93 +143,70 @@
 
 <br><br>
 
-### 💡
-
-**BUILD**
-
-**LEARN**
-
-**CREATE**
-
-**REPEAT**
+<img src="https://img.shields.io/badge/BUILD-00F5FF?style=for-the-badge&labelColor=020024"/>
+<br>
+<img src="https://img.shields.io/badge/LEARN-7F00FF?style=for-the-badge&labelColor=020024"/>
+<br>
+<img src="https://img.shields.io/badge/CREATE-FF00C8?style=for-the-badge&labelColor=020024"/>
+<br>
+<img src="https://img.shields.io/badge/REPEAT-00F5FF?style=for-the-badge&labelColor=020024"/>
 
 </td>
 
 </tr>
 </table>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT WORK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CURRENTLY WORKING                       -->
 
-# 🚀 What I'm Working On
+<!-- ========================================================= -->
+
+<a name="what-im-working-on"></a>
+
+# 🎯 What I'm Working On
 
 <table>
-<tr>
-
-<td align="center" width="33%">
-
-### 💻
-
-**Software Development**
-
-Building practical applications and experimenting with different technologies.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖
-
-**AI / ML**
-
-Exploring Machine Learning, Deep Learning, Computer Vision and intelligent applications.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐
-
-**Full-Stack**
-
-Creating complete web applications from frontend to backend.
-
-</td>
-
-</tr>
 
 <tr>
 
-<td align="center">
+<td width="50%">
 
-### 📱
+### 💻 Software Development
 
-**Android**
+Building applications and experimenting with different technologies.
 
-Building modern Android applications with Kotlin and modern UI technologies.
+<br>
+
+### 🤖 Artificial Intelligence
+
+Exploring Machine Learning, Computer Vision and intelligent applications.
+
+<br>
+
+### 🌐 Full-Stack Development
+
+Building complete applications from frontend to backend.
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-### 🧠
+### 📱 Android Development
 
-**Learning**
+Creating modern Android applications using Kotlin.
 
-Constantly exploring new frameworks, tools and technologies.
+<br>
 
-</td>
+### 🧠 Learning
 
-<td align="center">
+Exploring new frameworks, tools and technologies.
 
-### 🚀
+<br>
 
-**Projects**
+### 🚀 Real-World Projects
 
-Turning ideas into useful real-world software.
+Turning ideas into useful software.
 
 </td>
 
@@ -159,25 +214,39 @@ Turning ideas into useful real-world software.
 
 </table>
 
----
-
-# 🧠 Tech Stack
+<br>
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=%22Big+ideas+start+with+small+commits.%22;%22Learn+something+new+every+day.%22;%22Build+something+useful.%22" alt="Animated quotes"/>
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                       TECH STACK                           -->
+
+<!-- ========================================================= -->
+
+<a name="tech-stack"></a>
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,html,css&perline=6"/>
 
 <br><br>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,flask,spring,bootstrap&perline=7"/>
 
 <br><br>
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6"/>
 
@@ -192,19 +261,19 @@ Turning ideas into useful real-world software.
 
 <br><br>
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase&perline=6"/>
 
 <br><br>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&perline=6"/>
 
 <br><br>
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven,nodejs,npm&perline=8"/>
 
@@ -218,11 +287,13 @@ Turning ideas into useful real-world software.
 
 </div>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SOCIALS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT WITH ME                        -->
+
+<!-- ========================================================= -->
+
+<a name="connect-with-me"></a>
 
 # 🌐 Connect With Me
 
@@ -244,21 +315,27 @@ Turning ideas into useful real-world software.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Open+to+interesting+projects+%F0%9F%A4%9D" alt="Connect animation"/>
+
 </div>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATISTICS                       -->
+
+<!-- ========================================================= -->
+
+<a name="github-statistics"></a>
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anshumancodehub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anshumancodehub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Anshuman%27s%20GitHub%20Statistics" width="49%"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodehub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodehub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" width="49%"/>
 
 </div>
 
@@ -266,29 +343,37 @@ Turning ideas into useful real-world software.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=anshumancodehub&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com/?user=anshumancodehub&theme=tokyonight&hide_border=true&border_radius=15&fire=FF00C8&ring=7F00FF&currStreakLabel=00F5FF"/>
 
 </div>
 
----
+<!-- ========================================================= -->
+
+<!--                    GITHUB TROPHIES                         -->
+
+<!-- ========================================================= -->
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshumancodehub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anshumancodehub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=-C,-B"/>
 
 </div>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                        -->
+
+<!-- ========================================================= -->
 
 # 🐍 Contribution Snake
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=550&lines=EAT+%E2%80%A2+CODE+%E2%80%A2+CONTRIBUTE+%E2%80%A2+REPEAT" alt="Snake text"/>
+
+<br><br>
 
 <picture>
 
@@ -308,11 +393,11 @@ src="https://raw.githubusercontent.com/anshumancodehub/anshumancodehub/output/gi
 
 </div>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CURRENTLY                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CURRENTLY                            -->
+
+<!-- ========================================================= -->
 
 # 📌 Currently
 
@@ -321,78 +406,119 @@ src="https://raw.githubusercontent.com/anshumancodehub/anshumancodehub/output/gi
 <table>
 
 <tr>
-<th>🚀 Focus</th>
-<th>📚 Learning</th>
-<th>🤝 Collaboration</th>
+
+<th>🚀 FOCUS</th>
+<th>📚 LEARNING</th>
+<th>🤝 COLLABORATION</th>
+
 </tr>
 
 <tr>
-<td>Software Development</td>
-<td>AI / ML</td>
-<td>Open Source</td>
-</tr>
 
-<tr>
-<td>Full-Stack Development</td>
-<td>New Technologies</td>
-<td>Interesting Projects</td>
-</tr>
+<td>
 
-<tr>
-<td>Android Development</td>
-<td>Advanced Programming</td>
-<td>Developers</td>
+Software Development<br>
+Full-Stack Development<br>
+Android Development
+
+</td>
+
+<td>
+
+AI / ML<br>
+New Technologies<br>
+Advanced Programming
+
+</td>
+
+<td>
+
+Open Source<br>
+Interesting Projects<br>
+Developers
+
+</td>
+
 </tr>
 
 </table>
 
 </div>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     DEVELOPER PHILOSOPHY                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  DEVELOPER PHILOSOPHY                      -->
+
+<!-- ========================================================= -->
 
 # 💡 Developer Philosophy
 
 <div align="center">
 
-### 🚀 `Code. Learn. Build. Repeat.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF00C8&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Never+Stop+Learning.;Every+Commit+Moves+You+Forward.;Build+Something+You%27re+Proud+Of." alt="Developer philosophy"/>
 
-<br>
+<br><br>
 
-> **Learning never stops.**
-
-Every project is an opportunity to learn something new,
-solve a real problem, and build something better.
-
-<br>
-
-`DREAM` → `PLAN` → `CODE` → `BUILD` → `DEPLOY` → `REPEAT`
+```text
+             ┌───────────────────────┐
+             │       DREAM           │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │        PLAN           │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │        CODE           │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │        BUILD          │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │       DEPLOY          │
+             └───────────┬───────────┘
+                         ↓
+             ┌───────────────────────┐
+             │       REPEAT          │
+             └───────────────────────┘
+```
 
 </div>
 
----
+<!-- ========================================================= -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FUN ZONE                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FUN ZONE                            -->
+
+<!-- ========================================================= -->
 
 # ⚡ Fun Zone
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Programming Joke"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Programming joke"/>
 
 <br><br>
 
-### ☕ Developer Mode
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7F00FF&center=true&vCenter=true&width=650&lines=while(alive)+%7B;++++learn();;++++code();;++++build();;++++repeat();;%7D" alt="Coding animation"/>
 
-```text
-while(alive) {
-    learn();
-    code();
-    build();
-    repeat();
-}
+</div>
+
+<!-- ========================================================= -->
+
+<!--                         FOOTER                              -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Building+the+future%2C+one+line+of+code+at+a+time.;%F0%9F%9A%80+Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing" alt="Footer animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,25:7F00FF,50:00F5FF,75:7F00FF,100:FF00C8&height=160&section=footer&animation=twinkling"/>
+
+</div>
