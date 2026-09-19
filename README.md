@@ -364,7 +364,7 @@ Turning ideas into useful software.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=550&lines=EAT+%E2%80%A2+CODE+%E2%80%A2+CONTRIBUTE+%E2%80%A2+REPEAT" alt="Snake text"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=EAT+%E2%80%A2+CODE+%E2%80%A2+CONTRIBUTE+%E2%80%A2+REPEAT" />
 
 <br><br>
 
@@ -379,7 +379,7 @@ media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/anshumancodehub/anshumancodehub/output/github-contribution-grid-snake.svg">
 
 <img
-alt="GitHub Contribution Snake"
+alt="Anshuman Mishra GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/anshumancodehub/anshumancodehub/output/github-contribution-grid-snake.svg">
 
 </picture>
