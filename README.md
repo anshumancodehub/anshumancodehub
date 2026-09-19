@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 # 💫 About Me
 
 🔭 I’m currently a student  
@@ -30,8 +28,6 @@
 ---
 
 # 🚀 What I'm Working On
-
-```text
 💻 Software Development
 🤖 Artificial Intelligence & Machine Learning
 🌐 Full-Stack Web Applications
