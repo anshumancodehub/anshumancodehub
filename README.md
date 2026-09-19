@@ -1,10 +1,3 @@
-Yes — let's make it **much closer to the generated image**: neon cyberpunk panels, terminal-style navigation, animated typing, glowing badges, organized cards, animated stats, streak, trophies, contribution snake, and a neon footer.
-
-**Important:** GitHub README files cannot execute custom CSS or JavaScript, so the animations below use GitHub-compatible animated SVG/image services. This is about as close as we can get to that design while keeping it functional on GitHub.
-
-Copy everything below into `README.md`:
-
-````markdown
 <!-- ========================================================= -->
 <!--                    ANSHUMAN MISHRA                        -->
 <!--              CYBERPUNK GITHUB PROFILE                     -->
